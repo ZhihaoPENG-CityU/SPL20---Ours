@@ -1,9 +1,11 @@
-# Active-Transfer-Learning
+# Non-Negative-Transfer-Learning-with-Consistent-Inter-domain-Distribution
 
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
-We appreciate it if you use this matlab code and cite our papers. 
+We appreciate it if you use this matlab code and cite our papers.
 ## The BibTeX files are as follows,
+### Non-Negative Transfer Learning with Consistent Inter-domain Distribution. Peng, et al. SPL20
+
 ### Active Transfer Learning. Peng, et al. TCSVT19
 @article{peng2019active,
   title={Active Transfer Learning},

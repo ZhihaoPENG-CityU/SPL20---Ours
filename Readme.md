@@ -4,19 +4,6 @@ We have added comments in the code, the specific details can correspond to the e
 
 We appreciate it if you use this matlab code and cite our papers.
 ## The BibTeX files are as follows,
-### Non-Negative Transfer Learning with Consistent Inter-domain Distribution. Peng, et al. SPL20
-
-### Active Transfer Learning. PENG, et al. TCSVT19
-@article{peng2019active,
-  title={Active Transfer Learning},
-  author={Peng, Zhihao and Zhang, Wei and Han, Na and Fang, Xiaozhao and Kang, Peipei and Teng, Luyao},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  volume={30},
-  number={4},
-  pages={1022--1036},
-  year={2019},
-  publisher={IEEE}
-}
 ### Non-Negative Transfer Learning with Consistent Inter-domain Distribution. PENG, et al. SPL20
 @ARTICLE{9210817,
   author={Z. {Peng} and Y. {Jia} and J. {Hou}},
@@ -29,7 +16,17 @@ We appreciate it if you use this matlab code and cite our papers.
   note={doi:{\color{blue}
 \href{https://doi.org/10.1109/LSP.2020.3025061}{10.1109/LSP.2020.3025061}}
   }
-
+### Active Transfer Learning. PENG, et al. TCSVT19
+@article{peng2019active,
+  title={Active Transfer Learning},
+  author={Peng, Zhihao and Zhang, Wei and Han, Na and Fang, Xiaozhao and Kang, Peipei and Teng, Luyao},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={30},
+  number={4},
+  pages={1022--1036},
+  year={2019},
+  publisher={IEEE}
+}
 ## Contact
 zhihapeng3-c@my.cityu.edu.hk; zhpengcn@126.com
 

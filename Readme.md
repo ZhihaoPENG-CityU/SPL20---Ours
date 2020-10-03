@@ -1,6 +1,6 @@
 # Non-Negative-Transfer-Learning-with-Consistent-Inter-domain-Distribution
 URL:
-https://ieeexplore.ieee.org/document/921
+https://ieeexplore.ieee.org/document/9210817
 
 We have added comments in the code, the specific details can correspond to the explanation in the paper.
 
